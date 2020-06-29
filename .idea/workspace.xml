@@ -2,29 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a615484-259b-489f-9c21-257d2a7a918f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercise/cn/edu/stu/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercise/cn/edu/stu/MyQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/linkedList/TwoLinkedListsIntersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/stackQueue/BracketValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/stackQueue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/stackQueue/MinQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/stackQueue/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/stackQueue/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/stackQueue/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/stackQueue/NextGreaterElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/stackQueue/Temperatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/tree/DiameterOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/tree/HasPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/tree/InvertTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/tree/IsBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/tree/MaxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/tree/MergeTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/MySqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/NextGreatestLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/SingleNonDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/FindLongestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/HasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/JudgeSqSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/MergeTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/ReverseVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/ReverseVowels2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/CanPlaceFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/CheckPossibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/EraseOverlapIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/FindContentChildren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/FindMinArrowShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/MaxProfit01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/MaxProfit02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/PartitionLabels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/ReconstructQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/sort/FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/sort/FrequencySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/sort/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/sort/TopkFreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/hello/User2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/vivo/CeShi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/vivo/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/cn/edu/stu/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/cn/edu/stu/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/linkedList/TwoLinkedListsIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/linkedList/TwoLinkedListsIntersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/BracketValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/BracketValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/MinQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/MinQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/NextGreaterElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/NextGreaterElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/Temperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/Temperatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/DiameterOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/HasPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/HasPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/InvertTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/InvertTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/IsBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/IsBalanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/MergeTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/MergeTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +76,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1c6iUYdtBarwRFMBLL2zKUjOxnI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,19 +88,79 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cn/edu/algorithm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.edu.stackQueue.Main" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.algorithm.greedy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace_idea\Exercise\src\cn\edu\algorithm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.User2">
+    <configuration name="CeShi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.vivo.CeShi" />
       <module name="Exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.stackQueue.*" />
+          <option name="PATTERN" value="cn.edu.vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EraseOverlapIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.algorithm.greedy.EraseOverlapIntervals" />
+      <module name="Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.algorithm.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.algorithm.binarySearch.MySqrt" />
+      <module name="Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.algorithm.binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartitionLabels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.algorithm.greedy.PartitionLabels" />
+      <module name="Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.algorithm.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.hello.User2" />
+      <module name="Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.hello.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,7 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.User2" />
+        <item itemvalue="Application.MySqrt" />
+        <item itemvalue="Application.PartitionLabels" />
+        <item itemvalue="Application.EraseOverlapIntervals" />
+        <item itemvalue="Application.CeShi" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +205,14 @@
       <workItem from="1590046647491" duration="14985000" />
       <workItem from="1590140289961" duration="42000" />
       <workItem from="1590559958832" duration="2612000" />
-      <workItem from="1590765566068" duration="542000" />
+      <workItem from="1590765566068" duration="1531000" />
+      <workItem from="1591024767704" duration="479000" />
+      <workItem from="1591497324923" duration="16073000" />
+      <workItem from="1591522799616" duration="194000" />
+      <workItem from="1591541152969" duration="34875000" />
+      <workItem from="1592495944400" duration="10910000" />
+      <workItem from="1593013095756" duration="33295000" />
+      <workItem from="1593222307491" duration="295000" />
     </task>
     <servers />
   </component>
@@ -126,33 +224,69 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1589855540372" />
-    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1590047771235">
+    <state x="409" y="200" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1592653216358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590047771235" />
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1590031799720">
+    <state x="409" y="200" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1592653216358" />
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1593055630935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590031799720" />
-    <state width="1366" height="127" key="GridCell.Tab.0.bottom" timestamp="1589962853628">
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593055630935" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1590804739107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="127" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589962853628" />
-    <state width="1366" height="127" key="GridCell.Tab.0.center" timestamp="1589962853628">
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590804739107" />
+    <state width="1366" height="132" key="GridCell.Tab.0.bottom" timestamp="1593187528467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="127" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589962853628" />
-    <state width="1366" height="127" key="GridCell.Tab.0.left" timestamp="1589962853628">
+    <state width="1366" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593187528467" />
+    <state width="1366" height="132" key="GridCell.Tab.0.center" timestamp="1593187528467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="127" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589962853628" />
-    <state width="1366" height="127" key="GridCell.Tab.0.right" timestamp="1589962853628">
+    <state width="1366" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593187528467" />
+    <state width="1366" height="132" key="GridCell.Tab.0.left" timestamp="1593187528467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="127" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589962853628" />
+    <state width="1366" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593187528467" />
+    <state width="1366" height="132" key="GridCell.Tab.0.right" timestamp="1593187528467">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593187528467" />
+    <state width="1366" height="223" key="GridCell.Tab.1.bottom" timestamp="1593187528358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593187528358" />
+    <state width="1366" height="223" key="GridCell.Tab.1.center" timestamp="1593187528358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593187528358" />
+    <state width="1366" height="223" key="GridCell.Tab.1.left" timestamp="1593187528358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593187528358" />
+    <state width="1366" height="223" key="GridCell.Tab.1.right" timestamp="1593187528358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593187528358" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1589857106360">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589857106360" />
+    <state x="404" y="94" width="597" height="540" key="StructurePopup" timestamp="1591802725556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="94" width="597" height="540" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1591802725556" />
+    <state x="231" y="17" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591803745926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="231" y="17" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1591803745926" />
+    <state x="0" y="0" width="667" height="728" key="find.popup" timestamp="1591802288035">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="667" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1591802288035" />
+    <state x="324" y="79" width="700" height="530" key="recent.locations.popup" timestamp="1592147132820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="79" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1592147132820" />
   </component>
 </project>
