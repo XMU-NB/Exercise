@@ -2,54 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a615484-259b-489f-9c21-257d2a7a918f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/MySqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/NextGreatestLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/SingleNonDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/FindLongestWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/HasCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/JudgeSqSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/MergeTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/ReverseVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/ReverseVowels2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/doublepointer/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/CanPlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/CheckPossibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/EraseOverlapIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/FindContentChildren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/FindMinArrowShots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/IsSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/MaxProfit01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/MaxProfit02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/PartitionLabels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/greedy/ReconstructQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/sort/FindKthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/sort/FrequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/sort/SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/sort/TopkFreq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/hello/User2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/vivo/CeShi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/edu/vivo/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/FirstBadVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/FndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/VersionControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercise/cn/edu/stu/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercise/cn/edu/stu/MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/linkedList/TwoLinkedListsIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/linkedList/TwoLinkedListsIntersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/BracketValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/BracketValid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/MinQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/MinQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/NextGreaterElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/NextGreaterElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/stackQueue/Temperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/stackQueue/Temperatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/DiameterOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/HasPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/HasPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/InvertTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/InvertTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/IsBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/IsBalanced.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/MaxDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/MergeTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/MergeTrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/edu/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/dataStructure/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/SingleNonDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/algorithm/binarySearch/SingleNonDuplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +52,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.edu.algorithm.binarySearch" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.edu.algorithm.greedy" />
     </key>
@@ -213,6 +173,8 @@
       <workItem from="1592495944400" duration="10910000" />
       <workItem from="1593013095756" duration="33295000" />
       <workItem from="1593222307491" duration="295000" />
+      <workItem from="1593415165047" duration="6254000" />
+      <workItem from="1593492155468" duration="589000" />
     </task>
     <servers />
   </component>

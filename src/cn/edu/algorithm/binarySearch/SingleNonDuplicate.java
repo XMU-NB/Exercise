@@ -43,5 +43,23 @@ public class SingleNonDuplicate {
         }
         return 0;
     }
-    //参考
+    //参考令 index 为 Single Element 在数组中的位置。在 index 之后，数组中原来存在的成对状态被改变。
+    // 如果 m 为偶数，并且 m + 1 < index，那么 nums[m] == nums[m + 1]；m + 1 >= index，
+    // 那么 nums[m] != nums[m + 1]。
+    public int singleNonDuplicate2(int[] nums) {
+        int l = 0;
+        int h = nums.length-1;
+        while (l<h){
+            int m = l+(h-l)/2;
+            if (m%2==1){
+                m--;//防止mid是奇数，是的话则左移一位,目标位在偶数位置
+            }
+            if(nums[m]==nums[m+1]){
+                l = m+2; //说明目标数在[mid+2,h]
+            }else{
+                h = m;  //否则目标数在[l,mid]
+            }
+        }
+        return nums[h];
+    }
 }
